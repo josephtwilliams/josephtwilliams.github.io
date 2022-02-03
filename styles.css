@@ -2,6 +2,9 @@ body, html {
   height: 100%;
   margin: 0;
   background-color: #EAECEE ;
+  min-width:1000px;       
+  width: auto !important;  
+  width:1000px;
 }
 
 .container {
