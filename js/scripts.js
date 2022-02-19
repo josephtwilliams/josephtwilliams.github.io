@@ -19,16 +19,9 @@ sr.reveal('p',  {
 })
 
 
-sr.reveal('.dashboard1', {
-    duration: 2000,
-    delay: 2000,
-    origin: 'bottom',
-    viewFactor: 0.2
-})
-
 sr.reveal('.dashboard', {
     duration: 2000,
-    delay: 500,
+    delay: 2000,
     origin: 'bottom',
     viewFactor: 0.2
 })
