@@ -60,7 +60,7 @@
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
-  --bs-body-color: #212529;
+  --bs-body-color: #fff;
   --bs-body-bg: #1f242d;
 }
 
@@ -78,13 +78,16 @@
 
 .dashboard {
   padding-top: 1rem;
-  padding-right: 1rem;
+  padding-right: 3rem;
   padding-bottom: 1rem;
-  padding-left: 1rem;
+  padding-left: 3rem;
   background-color: #1f242d
 
 }
 
+.border {
+  background-color: #1f242d
+}
 
 .navbar-custom { 
   background-color: #1f242d !important; 
