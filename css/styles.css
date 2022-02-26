@@ -40,7 +40,7 @@
   --bs-warning: #ffc107;
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
-  --bs-dark: #212529;
+  --bs-dark: #1c222e;
   --bs-primary-rgb: 13, 110, 253;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
@@ -61,7 +61,7 @@
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
   --bs-body-color: #fff;
-  --bs-body-bg: #1f242d;
+  --bs-body-bg: #1c222e;
 }
 
 *,
@@ -81,16 +81,16 @@
   padding-right: 1rem;
   padding-bottom: 1rem;
   padding-left: 1rem;
-  background-color: #1f242d
+  background-color: #1c222e
 
 }
 
 .border {
-  background-color: #1f242d
+  background-color: #1c222e
 }
 
 .navbar-custom { 
-  background-color: #1f242d !important; 
+  background-color: #1c222e !important; 
 }
 
 
@@ -107,8 +107,18 @@ body {
   background-color: var(--bs-body-bg);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  overflow: overlay;
 }
-
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.103);
+  
+}
+::-webkit-scrollbar-track {
+  display: none;
+}
 hr {
   margin: 1rem 0;
   color: inherit;
