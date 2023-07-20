@@ -1,29 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-07-17 18:50:12 +0200
-categories: jekyll update
+title:  "Hello World"
+date:   2023-07-20 15:29:00 +0200
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome to my blog. I'm Joe, a technology enthusist from Melbourne, Australia. At the moment I'm travelling Europe (Barcelona) after completing my undergraduate studies. Given this is my first post I shall provide a brief summary on my background, and my intention with this blog. 
 
-Jekyll requires blog post files to be named according to the following format:
+I studied a Bachelor of Commerce alongside a Diploma in Computing at the University of Melbourne. Double degrees are not offered at UniMelb and this pathway was the closest I could get to a Commerce/Computer Science degree. My favourite subjects were Machine learning, Algorithmic Trading, Information Security/Privacy, and Visualisation/Data Wrangling. 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+It's not surprising my first project was [AussieQuant][Aussiequant], an alternative data provider for retail investors on ASX listed companies. The website has consistent users from around the world, and remains somewhere I can test ideas on web development, data engineering, and complement my role as a part-time data anlayst. 
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Currently I'm self-teaching linear algebra and calculus to improve my intuitiuons behind machine learning conepts. This has proven challenging, especially while travelling, but rewarding given my interests in AI and decentralisation. I hope to use this blog to explore these ideas, improve my writing and maintain a record of my thoughts over time. 
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Aussiequant]: https://aussiequant.com
