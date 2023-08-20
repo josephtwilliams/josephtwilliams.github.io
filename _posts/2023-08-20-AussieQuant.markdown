@@ -10,7 +10,7 @@ date:   2023-08-20 15:29:00 +0200
 
 AussieQuant.com began as a personal exploration into the world of data science and web development. What started as a curiosity-driven project soon evolved into a valuable resource for retail investors in the Australian stock market, offering access to alternative datasets. In this post, I'll delve into the technologies that made it possible, the challenges faced, and why I've decided to close this chapter for now.
 
-![AussieQuant Desktop Home](/assets/images/aussiequant-desktop-home.png)
+![AussieQuant Desktop Home](/assets/images/aussiequant-desktophome.png)
 
 ## The Tech Stack
 
@@ -36,7 +36,7 @@ Building AussieQuant presented a series of intricate challenges that shaped the 
 
 4. **Converting PDFs from the Register of Members' Interest:** The complex process of converting around 150 PDFs involved OCR, text splitting, parsing with gpt-3.5 api, and matching company names.
 
-![AussieQuant Short Interest](/assets/images/aussiequant-short-interest.png)
+![AussieQuant Short Interest](/assets/images/aussiequant-shortinterest.png)
 
 ### The Rewards
 
@@ -51,7 +51,7 @@ Despite the challenges, overcoming them led to rewarding insights and growth:
 
 The challenges and rewards of building AussieQuant.com were interwoven, each obstacle leading to new insights and skills. The experience has shaped not only the project but also my approach to problem-solving and development, leaving me better prepared for future endeavors.
 
-![AussieQuant Network Graph](/assets/images/aussiequant-network-graph.png)
+![AussieQuant Network Graph](/assets/images/aussiequant-networkgraph.png)
 
 ## Closing This Chapter
 
