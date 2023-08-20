@@ -21,7 +21,7 @@ The technology behind AussieQuant was both a learning journey and a functional n
 - **Database:** PostgreSQL (pgAdmin4)
 - **Hosting/Cloud:** AWS Lightsail, AWS File Stores (S3)
 - **Automation:** GitHub Actions for daily data updates through Python scripts
-- **Visualization:** Chart.js, d3.js for charts
+- **Visualisation:** Chart.js, d3.js for charts
 - **Server Management:** Nginx
 
 This stack allowed for a dynamic and responsive website that could handle daily updates and present complex data in an understandable format.
@@ -42,7 +42,7 @@ Building AussieQuant presented a series of intricate challenges that shaped the 
 Despite the challenges, overcoming them led to rewarding insights and growth:
 
 1. **Considering New Frontend Approaches:** The difficulties with Handlebars sparked consideration of a rewrite using a more flexible framework like React, opening new possibilities for development.
-2. **Beautiful Data Visualizations:** The hard work in collecting datasets paid off with stunning time series and visualisations like the network graph, revealing clear areas of market interest.
+2. **Beautiful Data Visualisations:** The hard work in collecting datasets paid off with stunning time series and visualisations like the network graph, revealing clear areas of market interest.
 3. **Unique Insights from PDF Conversion:** The complex process of handling PDFs led to great insights like the current state of LLM capabilities especially in extracting information from large, unstructured text.
 
 The challenges and rewards of building AussieQuant.com were interwoven, each obstacle leading to new insights and skills. The experience has shaped not only the project but also my approach to problem-solving and development, leaving me better prepared for future endeavors.
