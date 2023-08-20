@@ -8,7 +8,7 @@ date:   2023-08-20 15:29:00 +0200
 
 ## Introduction
 
-AussieQuant.com began as a personal exploration into the world of data science and web development. What started as a curiosity-driven project soon evolved into a valuable resource for retail investors in the Australian stock market, offering access to alternative datasets. In this post, I'll delve into the technologies that made it possible, the challenges faced, and why I've decided to close this chapter for now.
+[Aussiequant.com][AussieQuant] began as a personal exploration into the world of data science and web development. What started as a curiosity-driven project soon evolved into a valuable resource for retail investors in the Australian stock market, offering access to alternative datasets. In this post, I'll delve into the technologies that made it possible, the challenges faced, and why I've decided to close this chapter for now.
 
 ![AussieQuant Desktop Home](/assets/images/aussiequant-desktophome.png)
 
@@ -37,7 +37,7 @@ Building AussieQuant presented a series of intricate challenges that shaped the 
 
 ![AussieQuant Short Interest](/assets/images/aussiequant-shortinterest.png)
 
-### The Rewards
+## The Rewards
 
 Despite the challenges, overcoming them led to rewarding insights and growth:
 
@@ -60,3 +60,5 @@ This is not the end, but rather a new beginning. I am now going to focus on fini
 ## Conclusion
 
 AussieQuant.com was more than just a website; it was a playground for experimentation, learning, and growth. It served its purpose, providing valuable data to the people and challenging me in ways I hadn't anticipated. As I close this chapter, I look forward to the exciting opportunities that lie ahead, armed with the knowledge and experience gained from this unique journey. The path forward is filled with promise, and I'm eager to embrace the next challenge, always keeping the needs and interests of the Australian community at the forefront of my endeavors.
+
+[AussieQuant]: https://aussiequant.com
