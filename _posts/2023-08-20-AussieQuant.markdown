@@ -4,7 +4,7 @@ title:  "AussieQuant"
 date:   2023-08-20 15:29:00 +0200
 ---
 
-### A Personal Exploration into Data Science and Web Development
+# A Personal Exploration into Data Science and Web Development
 
 ## Introduction
 
@@ -34,9 +34,9 @@ Building AussieQuant presented a series of intricate challenges that shaped the 
 2. **Frontend Development with Handlebars:** Handlebars, while familiar from previous projects, proved cumbersome for adding new features and limited the project's flexibility.
 3. **Collecting Datasets:** The periodic checking and backfilling of data, such as the ASX short interest, required constant vigilance and manual intervention to ensure my daily scripts were correctly updating my database.
 
-![AussieQuant Short Interest](/assets/images/aussiequant-short-interest.png)
-
 4. **Converting PDFs from the Register of Members' Interest:** The complex process of converting around 150 PDFs involved OCR, text splitting, parsing with gpt-3.5 api, and matching company names.
+
+![AussieQuant Short Interest](/assets/images/aussiequant-short-interest.png)
 
 ### The Rewards
 
@@ -45,14 +45,13 @@ Despite the challenges, overcoming them led to rewarding insights and growth:
 1. **Considering New Frontend Approaches:** The difficulties with Handlebars sparked consideration of a rewrite using a more flexible framework like React, opening new possibilities for development.
 2. **Beautiful Data Visualizations:** The hard work in collecting datasets paid off with stunning time series and visualizations like the network graph, revealing clear areas of market interest.
 
-![AussieQuant Network Graph](/assets/images/aussiequant-network-graph.png)
-
 3. **Unique Insights from PDF Conversion:** The complex process of handling PDFs led to great insights like the current state of LLM capabilities especially in extracting information from large, unstructured text.
 
 4. **Unique Insights from PDF Conversion:** The complex process of handling PDFs led to great insights like the current state of LLM capabilities especially in extracting information from large, unstructured text. 
 
 The challenges and rewards of building AussieQuant.com were interwoven, each obstacle leading to new insights and skills. The experience has shaped not only the project but also my approach to problem-solving and development, leaving me better prepared for future endeavors.
 
+![AussieQuant Network Graph](/assets/images/aussiequant-network-graph.png)
 
 ## Closing This Chapter
 
