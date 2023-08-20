@@ -33,7 +33,6 @@ Building AussieQuant presented a series of intricate challenges that shaped the 
 1. **Database Schema Decisions:** Early choices in the database schema had a domino effect on later development, influencing structure and functionality.
 2. **Frontend Development with Handlebars:** Handlebars, while familiar from previous projects, proved cumbersome for adding new features and limited the project's flexibility.
 3. **Collecting Datasets:** The periodic checking and backfilling of data, such as the ASX short interest, required constant vigilance and manual intervention to ensure my daily scripts were correctly updating my database.
-
 4. **Converting PDFs from the Register of Members' Interest:** The complex process of converting around 150 PDFs involved OCR, text splitting, parsing with gpt-3.5 api, and matching company names.
 
 ![AussieQuant Short Interest](/assets/images/aussiequant-shortinterest.png)
@@ -43,10 +42,8 @@ Building AussieQuant presented a series of intricate challenges that shaped the 
 Despite the challenges, overcoming them led to rewarding insights and growth:
 
 1. **Considering New Frontend Approaches:** The difficulties with Handlebars sparked consideration of a rewrite using a more flexible framework like React, opening new possibilities for development.
-2. **Beautiful Data Visualizations:** The hard work in collecting datasets paid off with stunning time series and visualizations like the network graph, revealing clear areas of market interest.
-
+2. **Beautiful Data Visualizations:** The hard work in collecting datasets paid off with stunning time series and visualisations like the network graph, revealing clear areas of market interest.
 3. **Unique Insights from PDF Conversion:** The complex process of handling PDFs led to great insights like the current state of LLM capabilities especially in extracting information from large, unstructured text.
-
 4. **Unique Insights from PDF Conversion:** The complex process of handling PDFs led to great insights like the current state of LLM capabilities especially in extracting information from large, unstructured text. 
 
 The challenges and rewards of building AussieQuant.com were interwoven, each obstacle leading to new insights and skills. The experience has shaped not only the project but also my approach to problem-solving and development, leaving me better prepared for future endeavors.
