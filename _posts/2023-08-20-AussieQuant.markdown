@@ -1,9 +1,10 @@
+---
 layout: post
 title:  "AussieQuant"
 date:   2023-08-20 15:29:00 +0200
 ---
 
-# Building AussieQuant.com: A Personal Exploration into Data Science and Web Development
+### A Personal Exploration into Data Science and Web Development
 
 ## Introduction
 
@@ -24,8 +25,6 @@ The technology behind AussieQuant was both a learning journey and a functional n
 - **Server Management:** Nginx
 
 This stack allowed for a dynamic and responsive website that could handle daily updates and present complex data in an understandable format.
-
-![AussieQuant Mobile Home](/assets/images/aussiequant-mobile-home.png)
 
 ## The Challenges
 
