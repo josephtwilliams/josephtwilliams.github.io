@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-[josephtwilliams.com][josephtwilliams.com]
-
-[josephtwilliams.com]: josephtwilliams.com
+The menu is not the meal.
