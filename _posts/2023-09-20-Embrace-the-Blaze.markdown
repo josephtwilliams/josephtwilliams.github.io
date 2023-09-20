@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Emrbace the Blaze"
-date:   2023-09-20 16:21:00 +0200
+date:   2023-09-20 12:21:00 +0200
 ---
 
 > “Think of your life as a rainbow arcing across the horizon of this world. You appear, have a chance to blaze in the sky, then you disappear. To know my arc will fall makes me want to blaze while I am in the sky. Not for others, but for myself, for the trail I know I am leaving.” - Steve Jobs
